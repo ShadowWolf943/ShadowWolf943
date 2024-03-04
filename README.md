@@ -1,16 +1,12 @@
-### Hi there 👋
+### Greetings everyone 👋👋
 
-<!--
-**ShadowWolf943/ShadowWolf943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m a complete newbie in the programming space 
+- 🌱 I’m currently learning how to create music and art while also writing code, in order to fullfil my dream of making 
+      a game
+- 🐍 My path has now begun on Python
+- 👯 I’m looking forward to collaborating on anything that can expand my knowledge on coding, but mainly on any AI or 
+     game dev related project
+- 😄 Pronouns: He/him
+- ⚡ Quick fact about me:  50 % of my body is made of coffee and energy drinks. (trust me on my maths 🙏🙏)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:)
